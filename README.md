@@ -5,10 +5,10 @@
 
 My journey is driven by a passion for mastering new technologies and leveraging them to enhance organizational resilience and drive digital innovation. My journey is currently centered around mastering crucial cybersecurity tools such as SIEM platforms like Splunk and Wazuh, network monitoring tools like Wireshark, and intrusion detection systems like Snort. Simultaneously, I'm deeply invested in exploring cloud computing, particularly AWS. My goal is to integrate these skills to bolster proactive threat detection, incident response capabilities, and overall cybersecurity resilience while leveraging cloud solutions to optimize infrastructure and drive digital transformation.</h3>
 
-- 🌱 I’m currently learning **Networking, Cybersecurity and Cloud Computing**
+- 🌱 I’m currently learning **Networking, Cybersecurity and AWS**
 
-- 😄 Pronouns: **SHE/HER**
-- 💞️ I’m looking to collaborate on **Cyber projects and labs**
+- 😄 Pronouns: **She/Her**
+- 💞️ I’m looking to collaborate on **Cyber projects and labs!**
 - 📫 How to reach me: **beesilos@icloud.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/rebeccasilos/](https://www.linkedin.com/in/rebeccasilos/)
